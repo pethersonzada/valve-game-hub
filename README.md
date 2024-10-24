@@ -1,12 +1,12 @@
-Catálogo de Jogos - Pesquisa Simples
+## Catálogo de Jogos - Pesquisa Simples
 
 Este projeto é um catálogo de jogos que permite ao usuário pesquisar jogos por nome ou gênero e exibe os resultados com descrições e links para mais informações.
 
-Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
     HTML, CSS, JavaScript
 
-Como usar:
+### Como usar:
 
     Digite o nome ou gênero de um jogo no campo de pesquisa.
     Clique no botão "Pesquisar".
